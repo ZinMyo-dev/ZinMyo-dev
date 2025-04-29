@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning backend development with PHP/Laravel. 
+I am currently learning backend development with. 
 
 
 ## 🌐 Socials:
